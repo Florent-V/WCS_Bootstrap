@@ -1,0 +1,13 @@
+header {
+    background-color: #2354A1;
+    color: #fff
+
+}
+
+.card {
+    min-width: 300px;
+}
+
+body {
+    min-height: 100vh;
+}
